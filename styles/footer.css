@@ -1,0 +1,12 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 24px;
+
+    font: var(--text-md);
+}
+
+footer > div {
+    display: flex;
+    gap: 16px;
+}
